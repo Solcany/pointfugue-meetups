@@ -1,5 +1,3 @@
-# pf1-test
-
 ## Download files
 
 Download zip package: https://github.com/Solcany/pointfugue-meetups/raw/master/pf-1-27.9/package/pf-1-27.9.zip
